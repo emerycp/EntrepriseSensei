@@ -111,7 +111,7 @@ Les USA sont notre principal partenaire commercial:
 - Très proche de nous
 - Très grande partie du marché
 - Similaire culturellement
-- ALENE
+- ALENA
 
 ## 2.3 Avantages / Désavantages de la mondialisation
 
