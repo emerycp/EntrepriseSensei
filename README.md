@@ -277,7 +277,7 @@ C'est l'**offre de l'entreprise au marché**.
 - du prix
 - de la communication
 
-S**'inscrit** dans une **démarche de service à clientèle** visant une **norme de service**.
+S'**inscrit** dans une **démarche de service à clientèle** visant une **norme de service**.
 
 ## 6.2 Enjeux du produit
 
