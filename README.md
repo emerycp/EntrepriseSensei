@@ -247,6 +247,18 @@ L'**administration** est **ce processus** sans fin de ses 4 éléments.
 
 ## 4.5 L'importance des objectifs et de la planification dans la gestion
 
+Les **Objectifs** sont des **critères de performances**.
+
+- Indiquent la **direction** à suivre
+- Aident à **répartir** les ressources
+- Contribuent à l'**organisation** et le **contrôle**
+
+**Objectifs stratégiques** indiquent les **éléments** **importants** pour le **long terme**.
+
+**Plans tactiques** servent à la **mise en pratique** de ces **objectifs**.
+
+<img src="Image\Screenshot_3.png">
+
 
 
 ---
