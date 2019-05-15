@@ -445,3 +445,25 @@ Les **RH** regarde pour que le marketing ait un **personnel compétent et nombre
 
 -----
 
+# Chapitre 7
+
+## 7.1 L'importance de la production de biens et de services pour l'économie canadienne
+
+Le secteur **primaire** (agriculture, pêche, mine) et **secondaire** (construction, fabrication de biens) sont **essentiels** à notre **bien-être** malgré le faible poids dans l'emploi total au Canada.
+
+Le **système de transformation** comprend:
+
+- Les **intrants **(ressources)
+- Les **activités de transformation**
+- Les **extrants** (produits ou services)
+
+Les **stratégies** liées aux **opérations** conférant des **avantages concurrentiels**:
+
+- La **différenciation** (faire **mieux** que ses concurrents ou **autrement**)
+- Les **bas prix**
+- Le **service** (**plaisant** et **efficaces** les échanges entre client/entreprise)
+
+## 7.2 Principaux éléments de conception de biens ou de services
+
+
+
