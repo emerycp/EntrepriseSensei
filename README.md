@@ -259,7 +259,32 @@ Les **Objectifs** sont des **critères de performances**.
 
 <img src="Image\Screenshot_3.png">
 
+## 4.6 La base de l'organisation: La spécialisation et la départementalisation
 
+La **spécialisation** et l'**organisation** en structure nommé ''**services**'' augmente l'**efficacité** de l'entreprise.
+
+La **départementalisation** (découper suivant la nature des activités) peut se faire par **types** de **clientèles**, par **produits**, par **régions géo** et par **fonction**.
+
+## 4.7 Les styles de leadership
+
+**Aucun** style est **idéal**, chacun des dirigeants doivent s'**adapter**.
+
+**3 styles**:
+
+- Approche **autocratique**. *Le patron mène l'entreprise d'une main solide*
+- Approche **démocratique**. *Les employés participe à la prise de décision*
+- Approche **mentor**. *Vise à former les futurs dirigeants*
+
+<img src="Image\Screenshot_4.png">
+
+## 4.8 Liens entre le contrôle et la planification
+
+**Contrôle** sert à vérifier la **conformité** des **résultats** des **opérations** avec **ceux** **prévus** lors de la **planification**.
+
+Si la **conformité** a une **trop grande écart** 
+
+- une **explication** est **recherchée** 
+- des **mesures correctrices** sont **prises**.
 
 ---
 
