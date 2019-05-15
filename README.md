@@ -229,7 +229,7 @@ Le **résultat** permet de **planifier l'avenir**.
 
 Définir une **mission** pour l'entreprise et faire un **plan d'affaire** aide beaucoup pour l'**avenir**.
 
-![1557959686079](C:\Users\Client\AppData\Roaming\Typora\typora-user-images\1557959686079.png)
+<img src="Image\Screenshot_1.png">
 
 ## 4.4 Les quatre grandes activités du cycle administatif
 
@@ -243,7 +243,7 @@ Définir une **mission** pour l'entreprise et faire un **plan d'affaire** aide b
 
 L'**administration** est **ce processus** sans fin de ses 4 éléments.
 
-![1557959728106](C:\Users\Client\AppData\Roaming\Typora\typora-user-images\1557959728106.png)
+<img src="Image\Screenshot_2.png">
 
 ## 4.5 L'importance des objectifs et de la planification dans la gestion
 
