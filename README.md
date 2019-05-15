@@ -202,28 +202,50 @@ Les paliers gouvernementaux(municipal, provincial, fédéral) ont des exigences:
 
 Le gestionnaire
 
--  Accepte sa division en plusieurs parties de son travail, il est constamment interrompu
-- Possède une charge de travail exigeante
-- Aime agir
-- Préfère  la communication orale
+-  **Accepte** sa **division** en plusieurs parties de son **travail**, il est **constamment interrompu**
+- Possède une **charge** de travail **exigeante**
+- Aime **agir**
+- Préfère  la **communication orale**
 
-Ses compétences 
+Ses **compétences** 
 
-- De gestion 
+- De **gestion** 
 
-  utilisé (surtout RH) pour maintenir une bonne communication dans l'entreprise
+  utilisé (surtout RH) pour maintenir une **bonne communication** dans l'entreprise
 
-- Techniques
+- **Techniques**
 
-  permettent la compréhension des enjeux, aide aussi les employés
+  permettent la **compréhension des enjeux**, aide aussi les employés
 
-- Conceptuelles
+- **Conceptuelles**
 
-  servent à analyser les situations et à en dégager les éléments importants pour une bonne prise de décision
+  servent à **analyser les situations** et à en **dégager** les éléments **importants** pour une bonne prise de décision
 
 ##  4.3 Les forces et les faiblesses de l'entreprise
 
+**FFPM** (**F**orces, **F**aiblesses, **P**ossibilités, **M**enaces) sert à **évaluer ces critères** au sein de l'entreprise.
 
+Le **résultat** permet de **planifier l'avenir**.
+
+Définir une **mission** pour l'entreprise et faire un **plan d'affaire** aide beaucoup pour l'**avenir**.
+
+![1557959686079](C:\Users\Client\AppData\Roaming\Typora\typora-user-images\1557959686079.png)
+
+## 4.4 Les quatre grandes activités du cycle administatif
+
+**Planifier** consiste à **décider** **quoi** faire, **quand** et **comment**.
+
+**Organiser** consiste à **déterminer** les **tâches** et à **répartir** les **ressources** de l'entreprise.
+
+**Diriger** consiste à **guider** et **motiver** les employés pour atteindre l'objectif.
+
+**Contrôler** consiste à effectuer le **suivi** des performances.
+
+L'**administration** est **ce processus** sans fin de ses 4 éléments.
+
+![1557959728106](C:\Users\Client\AppData\Roaming\Typora\typora-user-images\1557959728106.png)
+
+## 4.5 L'importance des objectifs et de la planification dans la gestion
 
 
 
