@@ -149,7 +149,7 @@ Pour faciliter le développement des entreprises, il y a des accords signé pour
 - Elle peut exporter et importer ponctuellement. 
 - Elle veut devenir une entreprise internationale. Quelques peu arrivent à aller sur le marché multinationale.
 
-
+---
 
 # Chapitre 3
 
@@ -195,6 +195,39 @@ Les paliers gouvernementaux(municipal, provincial, fédéral) ont des exigences:
 - Les contributions obligatoires(CNESST)
 
 -----
+
+# Chapitre 4
+
+## 4.1 Définition des qualités du gestionnaire et de sa nature
+
+Le gestionnaire
+
+-  Accepte sa division en plusieurs parties de son travail, il est constamment interrompu
+- Possède une charge de travail exigeante
+- Aime agir
+- Préfère  la communication orale
+
+Ses compétences 
+
+- De gestion 
+
+  utilisé (surtout RH) pour maintenir une bonne communication dans l'entreprise
+
+- Techniques
+
+  permettent la compréhension des enjeux, aide aussi les employés
+
+- Conceptuelles
+
+  servent à analyser les situations et à en dégager les éléments importants pour une bonne prise de décision
+
+##  4.3 Les forces et les faiblesses de l'entreprise
+
+
+
+
+
+---
 
 # Chapitre 5
 
