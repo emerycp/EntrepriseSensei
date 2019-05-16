@@ -513,3 +513,9 @@ La **qualité** est la **capacité** d'un produit à **satisfaire** un **besoin*
 
 ## 8.2 Distinction entre les deux types de produits
 
+<img src="Image\Screenshot_5.png">
+
+Les produits **standard** **conviennent** à la **majorité** des gens et des situations, de plus, ils sont fabriqués à l'**avance**.
+
+## 8.3 Les objectifs de la fonction des opérations
+
