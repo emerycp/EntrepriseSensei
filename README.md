@@ -563,9 +563,28 @@ Les **stocks** représentent des coûts, réduisant les profits
 
 ## 9.1 L'importance de la gestion des RH
 
+**Toutes les fonctions** de l'entreprise dépends des **RH**. 
+
+`Autant niveau marketing, opérationnelles ou de gestion financière, la qualité du travail accompli selon la motivation et la compétence des employés.`
+
+La **plus grande** partie des **dépenses d'exploitation** est souvent consacrée aux **RH**
+
+**Maintenant**, la gestion des RH est faites sur une **gestion à long terme**.
+
 ## 9.2 Les étapes du processus de donation en personnel
 
+<img src="Image\Screenshot_6.png">
+
+1. Description du poste à pourvoir
+2. Rechercher et obtenir un nombre suffisant de candidatures
+3. S'appuie sur des critères et une méthode de sélection appropriée
+4. Entrevue menée à l'aide d'une grille de sélection  permettant d'arriver au choix du candidat retenu
+5. Bien la faire, car ils sont déterminants pour sa réussite au sein de l'entreprise
+6. Permet de mesurer l'efficacité et de procéder aux ajustements nécessaires
+
 ## 9.3 Les principaux facteurs qu'une politique de rémunération doit comprendre
+
+
 
 ## 9.4 Éléments favorisant une grande motivation du personnel
 
