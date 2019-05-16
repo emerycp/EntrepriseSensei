@@ -475,18 +475,25 @@ Les principaux éléments:
 
   `Il faut tenir compte des coûts, la dispo de main d'oeuvre, de l'énergie et des autres services`
 
-- L'**aménagement** (Disposition des installations et du matériel)
-  - Aménagement-**produit** (Ateliers où les postes de travail sont placés en ligne)
-  - Aménagement-**processus** (Regroupe tous les appareils d'un processus de fabrication)
-  - Aménagement **stationnaire** (Où les personnes et les matériaux se déplacent vers le produit. `Exemple: Immeuble en construction`)
-  - Aménagement **cellulaire** (Atelier en sous-ensembles où les moyens sont disposés selon la similitude des produits) 
+- L'**aménagement** (**Disposition** des **installations** et du matériel)
+  - Aménagement-**produit** (**Ateliers** où les **postes de travail** sont placés en ligne)
+  - Aménagement-**processus** (**Regroupe** tous **les appareils** d'un processus de fabrication)
+  - Aménagement **stationnaire** (Où les personnes et les matériaux se **déplacent vers** le produit. `Exemple: Immeuble en construction`)
+  - Aménagement **cellulaire** (Atelier en sous-ensembles où les moyens sont disposés selon la **similitude** des produits) 
 
-- La **circulation** (Cheminement des objets et des personnes dans l'entreprise) et la **manutention** (Déplacement des biens)
+- La **circulation** (**Cheminement** des objets et des personnes dans l'entreprise) et la **manutention** (**Déplacement** des biens)
 - La **planification** et le **contrôle des opérations** 
 
 ## 7.3 Les principales techniques et outils de gestion de la production
 
+À **court terme**, les **éléments à gérer** sont les suivants:
 
+- L'**ordonnancement** (Activité qui consiste à **ordonner** les opérations exécution d'un produit)
+- Les **outils de gestion** des **opérations** (**Diagramme de Gantt** est un bon outil pour visualiser la charge de travail)
+- La **gestion de projet** (Ensemble des **activités** nécessaires à la **planification**, la **coordination** et au **contrôle** de exécution d'un projet) 
+- La **gestion** et le **contrôle** de la **qualité** (Vérification de la **conformité** d'un produit à sa **définition**)
+
+La **qualité** est la **capacité** d'un produit à **satisfaire** un **besoin** défini au **meilleur prix**.
 
 ---
 
