@@ -1,5 +1,7 @@
 # Entreprise-sensei
 
+### Résumé de chacun des chapitres à l'étude au cours de la session. Bonne préparation! :white_check_mark:
+
 # Chapitre 1
 
 ## 1.1. Qu'est-ce qu'une entreprise?
@@ -557,3 +559,34 @@ Les **stocks** représentent des coûts, réduisant les profits
 
 ---
 
+# Chapitre 9
+
+## 9.1 L'importance de la gestion des RH
+
+## 9.2 Les étapes du processus de donation en personnel
+
+## 9.3 Les principaux facteurs qu'une politique de rémunération doit comprendre
+
+## 9.4 Éléments favorisant une grande motivation du personnel
+
+## 9. 8 Les relations collectives de travail
+
+---
+
+# Chapitre 11
+
+## 11.2 Les principaux besoins de financement
+
+## 11.3 Les principales sources de financement offertes
+
+## 11.4 Les principales formes de financement
+
+## 11.5 Les composantes du marché des valeurs mobilières
+
+## 11.8 Préparer une demande de financement
+
+---
+
+# Bon examen tout le monde :coffee:
+
+## Passez un bel été!:partly_sunny:
