@@ -541,7 +541,19 @@ La **production en continu** s'adresse aux **grandes quantités** de produit à 
 
 ## 8.5 La gestion des stocks et la gestion de l'approvisionnement contribuent à l'augmentation (ou pas) des profits
 
+La **gestion des stocks** rend la **production** plus **souple**.
 
+- Les **stocks** servent de tampon entre les opérations. 
+
+  - Ils permettent aux **clients** de **choisir** la **quantité** de produit désirée. 
+
+  - Ils permettent à l'**entreprise** de **tirer** **avantage** des **réductions** offert par les fournisseurs à l'achat de grande quantité
+
+  - **Protègent** l'entreprise contre l'**inflation** à **court terme** 
+
+Une **entreprise** **possédant** des **stocks** peut **vendre des produits immédiatement** aux clients.
+
+Les **stocks** représentent des coûts, réduisant les profits
 
 ---
 
