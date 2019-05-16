@@ -519,3 +519,29 @@ Les produits **standard** **conviennent** à la **majorité** des gens et des si
 
 ## 8.3 Les objectifs de la fonction des opérations
 
+Les cinq objectifs:
+
+- La **qualité**, ou **respect** de caractéristiques précises
+- La **quantité**, on veut **produire** **assez**, mais **pas trop**.
+- Le **lieu**, pour **livrer** et **vendre** les produits
+- Le **temps**, pour **respecter** les **délais**
+- Le **prix**, rester **compétitif** et tenir compte de la **qualité** et du **service**
+
+Chaque **entreprise** va accorder la **priorité** à l'un ou l'autre des objectifs **selon son activité et sa situation**
+
+## 8.4 Choisir le processus de production et son environnement
+
+Les **quantités à produire** **déterminent** généralement **le processus de production** de l'entreprise et **son type d'aménagement.**
+
+La **production à l'unité** ne peut être bon si ce n'est que pour produire **quelques produits**.
+
+La **production par lots** est adaptée aux **quantités moyennes**.
+
+La **production en continu** s'adresse aux **grandes quantités** de produit à produire.
+
+## 8.5 La gestion des stocks et la gestion de l'approvisionnement contribuent à l'augmentation (ou pas) des profits
+
+
+
+---
+
