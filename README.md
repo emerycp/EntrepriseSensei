@@ -586,7 +586,7 @@ La **plus grande** partie des **dépenses d'exploitation** est souvent consacré
 
 ## 9.3 Les principaux facteurs qu'une politique de rémunération doit comprendre
 
-
+`En train d'écrire...`
 
 ## 9.4 Des éléments favorisant une grande motivation du personnel
 
@@ -598,7 +598,7 @@ La **plus grande** partie des **dépenses d'exploitation** est souvent consacré
 - **Atmosphère chaleureuse**
 - **Retenir** et **augmenter** leur **rendement**
 
-## 9. 8 Les relations collectives de travail
+## 9.8 Les relations collectives de travail
 
 Les **syndicats** sont des **organismes** visant à **défendre les droits des travailleurs.**
 
@@ -616,13 +616,41 @@ Des **grève** ou des **lock-out** peuvent être utilisés pour mettre de la **p
 
 ## 11.2 Les principaux besoins de financement
 
+Le **besoin en fonds de roulement** correspond aux **besoins d'argent nouveau** pour **financer** des **opérations en cours.** `Résulte du décalage entre les entrées et sorties de fonds.`
+
+Les **besoins de financement des investissements** concerne l'**argent nécessaire** à l'**expansion de l'entreprise**, à l'**accroissement** de sa **production** ou sa **productivité**.
+
 ## 11.3 Les principales sources de financement offertes
+
+- Banques à charte 
+- Banques canadiennes
+- Banques étrangères
+- Mouvement des Caisses Desjardins
+- Caisse de dépôt et placement du Québec
+- Investissement Québec
+- Banque de développement du Canada
+- Sociétés de capital de risque
 
 ## 11.4 Les principales formes de financement
 
+- Le **financement personnel** et l'**argent des proches**
+- Les **associés** et les **actionnaires**
+- Le **crédit fournisseur** (dans le commerce de détail)
+- **Institutions financières** et les différentes **formes** de **prêts** et de **marges de crédit** qu'elles proposent
+- **Programmes gouvernementaux** visant la **promotion** de **activité économique**
+
 ## 11.5 Les composantes du marché des valeurs mobilières
 
+`En train d'écrire...`
+
 ## 11.8 Préparer une demande de financement
+
+1. Établir un plan d'affaires et définir les besoins financiers
+2. Choisir la forme de financement la plus adaptée
+3. Étoffer le plan d'affaires en faisant ressortir le potentiel et les compétences de l'entreprise
+4. Rendre le projet attrayant pour les investisseurs
+5. Préparer la rencontre avec les investisseurs
+6. Négocier la proposition qui semble la plus satisfaisante
 
 ---
 
