@@ -465,5 +465,28 @@ Les **stratégies** liées aux **opérations** conférant des **avantages concur
 
 ## 7.2 Principaux éléments de conception de biens ou de services
 
+Les principaux éléments:
 
+- **Prévoir** la **demande** (Estimation de la demande future)
+
+- La **capacité de production nécessaire** (Évaluer le degré d'activité le plus élevé d'une usine)
+
+- La **localisation** (Choix de l'emplacement de l'entreprise) 
+
+  `Il faut tenir compte des coûts, la dispo de main d'oeuvre, de l'énergie et des autres services`
+
+- L'**aménagement** (Disposition des installations et du matériel)
+  - Aménagement-**produit** (Ateliers où les postes de travail sont placés en ligne)
+  - Aménagement-**processus** (Regroupe tous les appareils d'un processus de fabrication)
+  - Aménagement **stationnaire** (Où les personnes et les matériaux se déplacent vers le produit. `Exemple: Immeuble en construction`)
+  - Aménagement **cellulaire** (Atelier en sous-ensembles où les moyens sont disposés selon la similitude des produits) 
+
+- La **circulation** (Cheminement des objets et des personnes dans l'entreprise) et la **manutention** (Déplacement des biens)
+- La **planification** et le **contrôle des opérations** 
+
+## 7.3 Les principales techniques et outils de gestion de la production
+
+
+
+---
 
