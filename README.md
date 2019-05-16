@@ -497,3 +497,19 @@ La **qualité** est la **capacité** d'un produit à **satisfaire** un **besoin*
 
 ---
 
+# Chapitre 8
+
+## 8.1 Les étapes de la conception d'un produit
+
+1. Trouver des idées
+2. Sélectionner les meilleures
+3. Faire un test de concept `Exemple: Avons nous les ressources nécessaires?`
+4. Déterminer les besoins précis des clients
+5. Établir les fonctions du produit `La façon que le produit va fonctionner`
+6. Mener des études de faisabilité `La façon que le produit va être fait`
+7. Faire un test de produit `Exemple:Est-ce le meilleur moyen de répondre aux besoins?`
+8. Faire un test de marché `Exemple: Est-ce que le produit répond aux besoins?`
+9. Commercialiser le produit
+
+## 8.2 Distinction entre les deux types de produits
+
