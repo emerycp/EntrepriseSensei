@@ -2,6 +2,8 @@
 
 ### Résumé de chacun des chapitres à l'étude au cours de la session. Bonne préparation! :white_check_mark:
 
+
+
 # Chapitre 1
 
 ## 1.1. Qu'est-ce qu'une entreprise?
@@ -586,9 +588,27 @@ La **plus grande** partie des **dépenses d'exploitation** est souvent consacré
 
 
 
-## 9.4 Éléments favorisant une grande motivation du personnel
+## 9.4 Des éléments favorisant une grande motivation du personnel
+
+- L**ocaux propres**, bien **aérés** et **éclairés**
+- **Parking** adéquats
+- **Cafétéria** offrant de **bons repas** à de **bons prix**
+- **Horaire flexibles**
+- Système de **reconnaissance** de la **qualité** du travail
+- **Atmosphère chaleureuse**
+- **Retenir** et **augmenter** leur **rendement**
 
 ## 9. 8 Les relations collectives de travail
+
+Les **syndicats** sont des **organismes** visant à **défendre les droits des travailleurs.**
+
+Donner l'**autorité** à un syndicat **exige** que la **majorité des employés votent** en **faveur**.
+
+Les **représentant** **négocient** les **conditions** de travail en leur nom auprès des patrons.
+
+La **procédure d'arbitrag**e est prévue pour **régler** un **grief insoluble** par négociation.
+
+Des **grève** ou des **lock-out** peuvent être utilisés pour mettre de la **pression**.
 
 ---
 
